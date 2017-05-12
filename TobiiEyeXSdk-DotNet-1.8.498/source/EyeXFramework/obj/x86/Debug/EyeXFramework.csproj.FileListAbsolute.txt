@@ -1,7 +1,0 @@
-C:\Users\hal\Downloads\TobiiEyeXSdk-DotNet-1.8.498\source\EyeXFramework\bin\x86\Debug\EyeXFramework.dll
-C:\Users\hal\Downloads\TobiiEyeXSdk-DotNet-1.8.498\source\EyeXFramework\bin\x86\Debug\EyeXFramework.pdb
-C:\Users\hal\Downloads\TobiiEyeXSdk-DotNet-1.8.498\source\EyeXFramework\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
-C:\Users\hal\Downloads\TobiiEyeXSdk-DotNet-1.8.498\source\EyeXFramework\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
-C:\Users\hal\Downloads\TobiiEyeXSdk-DotNet-1.8.498\source\EyeXFramework\obj\x86\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
-C:\Users\hal\Downloads\TobiiEyeXSdk-DotNet-1.8.498\source\EyeXFramework\obj\x86\Debug\EyeXFramework.dll
-C:\Users\hal\Downloads\TobiiEyeXSdk-DotNet-1.8.498\source\EyeXFramework\obj\x86\Debug\EyeXFramework.pdb

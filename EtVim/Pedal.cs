@@ -47,12 +47,13 @@ namespace EtVim
                 {
                     bool isActivated;
                     var line = _serialPort.ReadLine();
+                    
                     switch (line.Trim())
                     {
-                        case "ON":
+                        case "on":
                             isActivated = true;
                             break;
-                        case "OFF":
+                        case "off":
                             isActivated = false;
                             break;
                         default:

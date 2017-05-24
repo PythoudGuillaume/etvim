@@ -1,0 +1,18 @@
+test_1.java
+1. change de author of the code with "Eddy Merckx"
+2. change the size of the new person to 175
+3. change toString() method to only return the firstName
+4. remove the commentary before the main()
+5. add a commentary before the main() that says "TODO: finish the project"
+6. add you name as a author
+7. finish
+
+
+test_2.jva
+1. change the name of the new dog to "Boule"
+2. change the author name with your name
+3. change ":" to "=" in the toString() method
+4. remove the commentary before the main()
+5. add "Don Juan" as an author
+6. add a commentary before the main() that says "This experiment is so fun"
+7. finish

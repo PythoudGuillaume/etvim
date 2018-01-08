@@ -1,2 +1,2 @@
 # etvim
-Make eye tracker compatible with vim
+Make eye tracking compatible with vim
